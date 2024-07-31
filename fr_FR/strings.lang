@@ -23,8 +23,11 @@ weather.overworld.fog.name=Brouillard
 
 gamemode.survival.name=Survie
 gamemode.creative.name=Créatif
+gamemode.hardcore.name=Hardcore
+gamemode.adventure.name=Aventure
+gamemode.spectator.name=Spectateur
 
-worldType.overworld.extended.name=Expérience BTA
+worldType.overworld.extended.name=Normal étendu
 worldType.overworld.extended.desc=L'expérience prévue pour\nBTA, avec des biomes plus \ngrands et des mondes plus grands.
 worldType.overworld.default.name=Normal
 worldType.overworld.default.desc=Une expérience normal, vanilla.
@@ -36,7 +39,7 @@ worldType.overworld.floating.name=Îles volantes
 worldType.overworld.floating.desc=Une collection d'îles flottantes \nvertigineuses à explorer.
 worldType.overworld.amplified.name=Amplifié
 worldType.overworld.amplified.desc=Similaire à Normal, mais permet au \nterrain de générer jusqu'à 256 \nblocs de hauteur.
-worldType.overworld.retro.name=Retro Alpha
+worldType.overworld.retro.name=Retro
 worldType.overworld.retro.desc=Génération de terrain aussi proche que \npossible de Minecraft Alpha\n1.1.2_01.
 worldType.overworld.islands.name=Îles
 worldType.overworld.islands.desc=Le niveau de la mer s'est élevé,\ntransformant le monde en une série\nd'îles avec de vastes océans\nentre les deux.
@@ -54,9 +57,9 @@ worldType.debug.name=Debug
 worldType.debug.desc=Génère toutes les valeurs de données de\nchaque bloc du jeu (à des fins de test).
 worldType.overworld.inland.name=Continent
 worldType.overworld.inland.desc=Similaire à l'expérience BTA,\nmais sans océans.
-worldType.overworld.classic.name=Retro Classique
+worldType.overworld.classic.name=Classique
 worldType.overworld.classic.desc=Génération de terrain similaire à \nClassique, mais infinie.
-worldType.overworld.indev.name=Retro Indev
+worldType.overworld.indev.name=Indev
 worldType.overworld.indev.desc=Génération de terrain similaire à \nIndev, mais infinie.
 
 disconnect.genericRaison=%s
@@ -126,7 +129,12 @@ sign.image.cross=Croix
 sign.image.craft=Fabrication
 sign.image.afk=AFK
 sign.image.brb=BRB
+sign.image.heart=Coeur
 
 flag.full=Vous avez trop de drapeaux sur cette carte !
 flag.overwrite=Impossible d'écraser un modèle existant.
 flag.copied=Modèle de drapeau copié.
+
+wand.wrongmode=Vous devez être en créatif pour pouvoir utiliser cet objet !
+
+save.data.missing.data=Level Metadata Missing!
