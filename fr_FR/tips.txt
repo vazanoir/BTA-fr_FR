@@ -1,0 +1,28 @@
+Appuyez sur %key.guidebook pour ouvrir le Guide.
+Les portails peuvent être aussi grands (ou petits) que vous le souhaitez.
+Le recycleur vous permet de transformer la terre inutile en ressources précieuses.
+Les cerisiers fleurissent au printemps. 
+Les bottes en cuir protègent vos cultures du piétinement.
+Les saisons changent tous les 7 jours. 
+Les objets tombent à travers des blocs de maille.
+Les hauts fourneaux fondent plus rapidement que les hauts-fourneaux ordinaires.
+Appuyez sur %key.fly pour voler en créatif. 
+La mousse se propage aux blocs voisins. Voyez à quoi il peut se propager !
+Utilisez %key.fly + faites défiler vers le haut/bas pour modifier la vitesse en créatif.
+Marre de regarder l'herbe pousser? Utilisez de la farine d'os sur la terre.
+Les lits ont besoin de couvertures ! Utilisez du tissu pour les fabriquer.
+Les carquois offrent un moyen pratique de stocker beaucoup de flèches.
+L'olivine est un substitut décent au charbon du Nether.
+Le sol de la cambrousse est riche en minéraux.
+Il existe 4 principaux types de roches ! Voyez celui que vous préférez.
+Envie d'une touche de couleur? Essayez de peindre des planches de bois !
+Appuyez sur %key.hotbar.switch pour modifier votre barre de raccourcis active.
+Utilisez une boussole pour voir vos coordonnées.
+Utilisez une horloge pour voir l'heure de la journée.
+Utilisez un calendrier pour voir la saison.
+Les labyrinthes recèlent des trésors rares et passionnants.
+Un clic droit sur un drapeau tout en maintenant un autre copiera son motif.
+Les panneaux peuvent être teints.
+Des cailloux peuvent être placés sur le sol pour faire un joli chemin.
+Les étiquettes peuvent être utilisées pour renommer les monstres et les objets.
+Appuyez sur LCTRL tout en survolant un élément pour voir sa description.

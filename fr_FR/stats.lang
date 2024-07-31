@@ -1,0 +1,85 @@
+stat.startGame=Temps joué
+stat.createWorld=Mondes joués
+stat.loadWorld=Sauvegarde chargées
+stat.joinMultiplayer=Multijoueur rejoint
+stat.leaveGame=Jeux quittés
+
+stat.playOneMinute=Minutes jouées
+
+stat.walkOneCm=Distance faite à marcher
+stat.fallOneCm=Distance faite à tomber
+stat.swimOneCm=Distance faite à nager
+stat.flyOneCm=Distance faite en vol
+stat.climbOneCm=Distance faite à grimper
+stat.diveOneCm=Distance faite à plonger
+stat.minecartOneCm=Distance faite en chariot
+stat.boatOneCm=Distance faite en bateau
+stat.pigOneCm=Distance faite en cochon
+stat.jump=Sauts
+stat.drop=Objets lachés
+
+stat.damageDealt=Dégats causés
+stat.damageTaken=Dégats pris
+stat.deaths=Nombres de morts
+stat.mobKills=Créatures tuées
+stat.playerKills=Joueurs tués
+stat.fishCaught=Poissons pêchés
+
+stat.mineBlock=%1$s miné
+stat.craftItem=%1$s fabriqué
+stat.useItem=%1$s utilisé
+stat.breakItem=%1$s cassé
+
+achievement.get=Succès à obtenir !
+
+achievement.taken=Succès réussi !
+
+achievement.requires=Nécessite '%1$s'
+achievement.openInventory=Faire l'inventaire
+achievement.openInventory.desc=Appuie sur '%1$s' pour ouvrir l'inventaire.
+achievement.mineWood=Coupons du bois
+achievement.mineWood.desc=Attaquez un arbre jusqu'à ce qu'une bûche en sorte.
+achievement.buildWorkBench=Au travail !
+achievement.buildWorkBench.desc=Fabrique un établi avec 4 planches
+achievement.buildPickaxe=Bonne pioche !
+achievement.buildPickaxe.desc=Utilise des planches et des bâtons pour fabriquer une pioche en bois
+achievement.buildFurnace=Au fourneau !
+achievement.buildFurnace.desc=Construit un four avec 8 pierres taillées
+achievement.acquireIron=L'âge du fer
+achievement.acquireIron.desc=Fondre un lingot de fer
+achievement.buildHoe=Il est temps de cultiver !
+achievement.buildHoe.desc=Utilise des planches et des bâtons pour fabriquer une houe
+achievement.makeBread=Du pain sur la planche
+achievement.makeBread.desc=Transforme du blé en pain
+achievement.bakeCake=La cerise sur le gâteau
+achievement.bakeCake.desc=Blé, sucre, lait et oeufs!
+achievement.buildBetterPickaxe=Qualité supérieure
+achievement.buildBetterPickaxe.desc=Construire une meilleur pioche
+achievement.cookFish=Un délicieux poisson
+achievement.cookFish.desc=Pêche et cuit un poisson !
+achievement.onARail=Sur la bonne voie
+achievement.onARail.desc=Déplacez-vous en chariot à au moins 1 km de votre point de départ. 
+achievement.buildSword=A l'attaque !
+achievement.buildSword.desc=Utilise des planches et des bâtons pour fabriquer une épée
+achievement.killEnemy=Chasseur de monstres
+achievement.killEnemy.desc=Attaque et tue un monstre
+achievement.killCow=Tanneur en devenir
+achievement.killCow.desc=Récolter du cuir
+achievement.flyPig=Aéro-porc
+achievement.flyPig.desc=Faire voler un cochon du haut d'une falaise
+achievement.getSensed=Hostile repéré
+achievement.getSensed.desc=Se faire détecter par un détecteur de mouvement
+achievement.craftHandCannon=Jeu de tir à la première personne
+achievement.craftHandCannon.desc=Fabriquer un canon à main
+achievement.collectStone=Napolitain
+achievement.collectStone.desc=Collecter tout les types de pierres
+achievement.crushBlocks=Brise-glace
+achievement.crushBlocks.desc=Recueillir de la glace en l'écrasant entre un bloc d'obsidienne.
+achievement.repairArmor=Forgeron
+achievement.repairArmor.desc=Réparer une cotte de mailles
+achievement.getChainmail=Enchaîné
+achievement.getChainmail.desc=Porter une armure de cotte de mailles entièrement réparée
+achievement.openGuidebook=La recette du succès
+achievement.openGuidebook.desc=Appuie sur '%1$s' pour ouvrir l'encyclopédie.
+achievement.caughtEmAll=Ils ont tous été attrapés !
+achievement.caughtEmAll.desc=Collecte toute les couleurs de lucioles dans des bocaux.
