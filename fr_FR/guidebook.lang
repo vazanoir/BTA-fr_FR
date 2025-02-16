@@ -7,6 +7,19 @@ guidebook.section.blast_furnace=Fonte
 guidebook.section.trommel=Recyclage
 guidebook.section.search=Rechercher
 
+guidebook.section.search.error.no_recipes=Aucune recette trouvée :(
+guidebook.section.search.result.found=%s résultats trouvés.
+guidebook.section.search.info.modifiers.title=Modificateurs de recherche
+guidebook.section.search.info.modifiers.1=§er:...§r: Rechercher des recettes
+guidebook.section.search.info.modifiers.2=§eu:...§r: Rechercher des usages
+guidebook.section.search.info.modifiers.3=§e#:...§r: Recherche d'un groupe d'objets
+guidebook.section.search.info.modifiers.4=§e@namespace§r: Rechercher dans
+guidebook.section.search.info.modifiers.5=namespace
+guidebook.section.search.info.modifiers.6=§e@namespace:group§r: Rechercher
+guidebook.section.search.info.modifiers.7=in recipe group
+guidebook.section.search.info.modifiers.8=§e...!§r: Recherche stricte
+guidebook.section.search.info.modifiers.9=§e...§r: Recherche générale
+
 guidebook.section.mob.health=Vie :
 guidebook.section.mob.score=Score : %s
 guidebook.section.mob.damage=Dégat : %s

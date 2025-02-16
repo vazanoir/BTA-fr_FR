@@ -1,4 +1,4 @@
-item.unknown.desc=You have not encountered this item yet.
+item.unknown.desc=Vous n'avez pas encore rencontré cet objet.
 
 item.tool.shovel.iron.name=Pelle en fer
 item.tool.shovel.iron.desc=Déterrez la saleté avec cet outil en fer.
@@ -293,6 +293,7 @@ item.bed.desc=Faire une sieste pendant la nuit.
 item.repeater.name=Répéteur de redstone
 item.repeater.desc=Retarde un signal de redstone.
 item.map.name=Carte
+item.map.blank.name=Carte vierge
 item.map.desc=Cartographiez vos terres !
 item.leaves.name=Feuilles
 item.leaves.desc=Croustillant et vert.
@@ -411,8 +412,14 @@ item.door.oak.painted.white.desc=Chaque maison en à besoin.
 item.door.glass.name=Porte en verre
 item.door.glass.desc=Très esthétique, pas très privé.
 
+item.door.steel.name=Porte en acier
+item.door.steel.desc=Trempé et robuste.
+
 item.rope.name=Corde
 item.rope.desc=Assez solide pour pouvoir grimper.
 
 item.wand.monster.name=Baguette d'invocation
 item.wand.monster.desc=Un outil magic qui permet de manifester des entités vivantes.
+
+item.paintbrush.name=Pinceau
+item.paintbrush.desc=Peut être imprégné de colorant et utilisé pour peindre des blocs.
